@@ -39,7 +39,7 @@ plot(pressure)
 knitr::include_graphics('https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif')
 ```
 
-## Inserir figura
+## Inserir figura 
 
 ```{r , echo=FALSE, fig.align = 'center', out.width = '25%'}
 knitr::include_graphics('teste1.jpg')
